@@ -99,7 +99,7 @@ class Navbar extends Component {
         <Logo />
           <Fade top duration={1650}>
             <span className="logoText">
-              <span id="g">G</span>ig<span id="h">H</span>ub
+              <span id="d">D</span>ream<span id="j">J</span>ob
             </span>
           </Fade>
       </Link>

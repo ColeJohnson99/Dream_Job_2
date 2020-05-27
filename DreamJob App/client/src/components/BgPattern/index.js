@@ -3,7 +3,7 @@ import "./style.css";
 
 function BgPattern() {
   return (
-    <img src="/img/bg-pattern.png" alt="subtle background pattern" className="bg-img" />
+    <img src="/img/bg01.jpg" alt="subtle background pattern" className="bg-img" />
   );
 }
 
