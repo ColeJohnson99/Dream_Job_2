@@ -34,7 +34,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 // Connect to the Mongo DB, and allow Heroku to connect to provisioned db
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/gighub");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/dreamjob");
 
 app.get('/*', function (req, res) {
   res.sendFile(path.join(__dirname, 'client', 'build', 'index.html'));
