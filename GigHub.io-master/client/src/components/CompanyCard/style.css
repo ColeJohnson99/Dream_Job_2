@@ -1,0 +1,68 @@
+.list-overflow-container {
+  max-height: 545px;
+  border: 1px #DDDDDD solid;
+  border-radius: 4px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.list-overflow-container ul {
+  margin: 0;
+}
+
+.list-overflow-container li {
+  border-radius: 0px;
+  border-left: none;
+  border-right: none;
+}
+
+.list-overflow-container li * {
+  cursor: pointer;
+}
+
+.list-overflow-container li a {
+  color: #2A878C;
+}
+
+.list-overflow-container li:first-child {
+  border-top: none;
+}
+
+.list-overflow-container li:last-child {
+  border-bottom: none;
+}
+
+.company-card {
+  /* width: 75vw; */
+  background-color: #F7F4E9; 
+}
+
+.company-logo {
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+
+.ceo-headshot {
+  margin-right: 2rem;
+}
+
+.site-btn, .reviews-btn {
+  background-color: #FF5C62;
+  border: none;
+}
+
+.site-btn:hover, .reviews-btn:hover {
+  background: linear-gradient(43deg, #3552b2, #6d5cc0, #a767cf, #c06cd6);
+}
+
+.chart-container {
+  float: right;
+  width: 450px;
+  height: 350px;
+}
+
+.company-name {
+  font-size: 2.6rem;
+  padding-left: 60px;
+}
