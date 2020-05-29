@@ -23,7 +23,7 @@ const styles = theme => ({
       marginRight: theme.spacing.unit,
       textTransform: 'lowercase',
       outline: 'none',
-      background: '#FF5C62',
+      background: 'red',
       maxHeight: '29px',
       maxWidth: '26px',
       color: 'white',
@@ -51,31 +51,32 @@ const styles = theme => ({
 });
 
 const style = {
-  background: 'rgba(0,0,0,0)',
-  color: '#F7F4E9',
-  fontSize: '1.2rem',
+  background: '#D3D3D3',
+  color: 'black',
+  fontSize: '2.0rem',
+  fontWeight: "bold"
 }
 
 const labelStyle = {
   fontSize: '1.8rem',
 }
   
-// Get steps returns the the values of the steps for each tab to display as a label
+//Get steps returns the the values of the steps for each tab to display as a label
 function getSteps() {
-  return [`< 𝙏𝙧𝙖𝙘𝙠 𝙖𝙣𝙙 𝙪𝙥𝙙𝙖𝙩𝙚 𝙮𝙤𝙪𝙧 𝙢𝙞𝙡𝙚𝙨𝙩𝙤𝙣𝙚𝙨 >`, `< 𝘼𝙡𝙡 𝙩𝙝𝙚 𝙚𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡 𝙞𝙣𝙛𝙤 𝙞𝙣 𝙤𝙣𝙚 𝙥𝙡𝙖𝙘𝙚 >`, `< 𝙂𝙞𝙜𝙃𝙪𝙗'𝙨 𝙜𝙤𝙩 𝙮𝙤𝙪 𝙘𝙤𝙫𝙚𝙧𝙚𝙙! >`];
+  return [``, ``, ``];
 }
   
 // Switch case for determining which content to display based on step index 
 function getStepContent(step) {
   switch (step) {
     case 0:
-      return `The job search can get overwhelming fast. How many applications have I sent out? Which companies have called me back? Do I have interviews coming up? We've got the tools you need to keep track of all this and more.`;
+      return `Welcome to Dream Jobs`;
 
       case 1:
-      return `DreamJob tracks and visualizes the progression of your job search from start to finish. See what people are saying about the work environment, culture, and salary competitiveness at the companies you've applied to, and track statistics for your own application process! Add and update contacts to keep track of your network, and make sure it never stops growing.`;
+      return `Your one stop spot for all things Job Hunting`;
 
       case 2:
-        return `Knowing where you're at is as important as knowing where you're going. Sometimes that last-minute email after a phone-screen is enough to signal that you're really interested in working somewhere, and with how many applications you'll be sending out, it isn't always easy to remember where you're at in the process. Don't stress, and don't miss another opportunity. Login with your LinkedIn account below to get started.`;
+        return `Sign in with your LinkedIn account below.`;
 
       default:
         return 'Unknown step';

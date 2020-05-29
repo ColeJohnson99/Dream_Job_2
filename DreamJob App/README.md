@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./client/public/img/gighub-logo.png" alt="GigHub's Logo" width="200"></a>
+  <img src="./client/public/img/image.png" alt=" Logo" width="200"></a>
 </h1>
 
 <h1 align="center">GigHub</h1>
@@ -12,7 +12,7 @@ GigHub lets users log in to the app with their LinkedIn account and track their 
 
 ## 🔑 How to Use the App:
 
-GigHub features a very intuitive interface and requires very little explanation for any user to jump in and get started. Currently, users do need to log in with a LinkedIn account, as that is our form of user authentication, so a LinkedIn account is a requirement to start using our app. We plan on implementing a local sign-in/sign-up somewhere down the line.
+Gighub features a very intuitive interface and requires very little explanation for any user to jump in and get started. Currently, users do need to log in with a LinkedIn account, as that is our form of user authentication, so a LinkedIn account is a requirement to start using our app. We plan on implementing a local sign-in/sign-up somewhere down the line.
 
 Jump in and get planning!
 

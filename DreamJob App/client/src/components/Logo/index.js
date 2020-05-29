@@ -4,6 +4,6 @@ import React from "react";
 
 export default function Logo() {
   return (
-    <img src="./img/gighub-logo.png" alt="GigHub logo" className="logo-image" />
+    <img src="img\image.png" alt="DreamJob logo" className="logo-image" />
   );
 }

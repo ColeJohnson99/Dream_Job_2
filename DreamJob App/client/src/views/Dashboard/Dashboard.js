@@ -205,7 +205,7 @@ class Dashboard extends React.PureComponent {
 
         <Drawer variant="permanent" classes={{paper: classNames(classes.drawerPaper, !this.state.open && classes.drawerPaperClose),}} open={this.state.open}>
           <div className={classes.toolbarIcon}>
-            <img src="/img/gighub-logo.png" alt="GigHub logo" className="drawer-logo" />
+            <img src="img\image.png" alt="DreamJob logo" className="drawer-logo" />
             <IconButton onClick={this.handleDrawerClose}>
               <ChevronLeftIcon className={classes.chevronIcon}/>
             </IconButton>
