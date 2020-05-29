@@ -179,7 +179,7 @@ class Contacts extends PureComponent {
                   <img src="./img/business-affiliate-network.svg" alt="Network Visual" className="network-image" />
                 </div>
                 <div className="text-container">
-                  <p className="header-text">Missed connections can mean missed opportunities—use GigHub to track all of your contacts' essential information and <span className="red-bold">keep growing your network!</span></p>
+                  <p className="header-text">Missed connections can mean missed opportunities—use Dream Job to track all of your contacts' essential information and <span className="red-bold">keep growing your network!</span></p>
                 </div>
                 <button className="add-contact btn grow center" onClick={this.handleClickOpen}><AddContactIcon className="align-middle"/> Add Contact</button>
 
