@@ -3,7 +3,7 @@
   margin-left: 25%;
   margin-right: 2%;
   margin-top: 3%;
-  background-color: rgb(88, 85, 85);
+  background-color: rgb(102, 102, 102);
   font-family: 'Roboto', sans-serif;
 }
   
@@ -61,7 +61,7 @@
 }
 
 .network-counter {
-  color: rgb(88, 85, 85);
+  color: white;
   font-size: 54px;
   margin-top: -15px;
 }
@@ -83,7 +83,7 @@
   margin: auto;
   margin-top: 2%;
   margin-bottom: 2%;
-  background: linear-gradient(43deg, rgb(236, 236, 236), rgb(175, 175, 175), rgb(66, 66, 66), black);
+  background: linear-gradient(43deg, rgb(88, 85, 85), rgb(88, 85, 85), rgb(88, 85, 85));
   background-size: 400% 400%;
   -webkit-animation: Gradient 3.75s ease infinite;
   -moz-animation: Gradient 3.75s ease infinite;
@@ -91,7 +91,7 @@
 }
 
 .refresh-db {
-  background-color: rgb(88, 85, 85);
+  background-color: rgb(121, 121, 121);
   margin-top: 3%;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .delete-contact {
-  color: rgb(88, 85, 85);;
+  color: rgb(88, 85, 85);
   background-color: #2D2D2D;
 }
 

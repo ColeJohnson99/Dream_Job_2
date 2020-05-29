@@ -53,12 +53,12 @@
 }
 
 .dark-bold {
-    color: #2D2D2D;
+    color: black;
     font-weight: bold;
 }
 
 .refresh-db {
-    background-color: rgb(88, 85, 85);
+    background-color: rgb(102, 102, 102);
     margin-top: 3%;
 }
 
