@@ -23,7 +23,7 @@ const styles = theme => ({
       marginRight: theme.spacing.unit,
       textTransform: 'lowercase',
       outline: 'none',
-      background: 'red',
+      background: 'gray',
       maxHeight: '29px',
       maxWidth: '26px',
       color: 'white',
@@ -53,30 +53,30 @@ const styles = theme => ({
 const style = {
   background: '#D3D3D3',
   color: 'black',
-  fontSize: '2.0rem',
+  fontSize: '1.2rem',
   fontWeight: "bold"
 }
 
 const labelStyle = {
-  fontSize: '1.8rem',
+  fontSize: '1.7rem',
 }
   
 //Get steps returns the the values of the steps for each tab to display as a label
 function getSteps() {
-  return [``, ``, ``];
+  return [`Job application tracker`, `All your information in an organized place`, `Welcome to DreamJob!`];
 }
   
 // Switch case for determining which content to display based on step index 
 function getStepContent(step) {
   switch (step) {
-    case 0:
-      return `Welcome to Dream Jobs`;
+    case 0: 
+      return `DreamJob will help you keep all the vital information from jobs you've applied to. `;
 
       case 1:
-      return `Your one stop spot for all things Job Hunting`;
+      return `Your one stop spot for all things job hunting.`;
 
       case 2:
-        return `Sign in with your LinkedIn account below.`;
+        return `Sign in with your LinkedIn account to get started!`;
 
       default:
         return 'Unknown step';

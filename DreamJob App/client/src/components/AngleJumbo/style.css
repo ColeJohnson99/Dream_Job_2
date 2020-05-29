@@ -1,7 +1,7 @@
 header {
     position: relative;
     height: 300px;
-    background-color: #F7F4E9;
+    background-color: rgb(163, 163, 163);
 }
   
 h1 {
@@ -20,7 +20,7 @@ svg {
     left: 0;
     width: 100vw;
     height: 100px;
-    fill: #F7F4E9;
+    fill: rgb(197, 124, 27);
 }
   
 .epicenter {
