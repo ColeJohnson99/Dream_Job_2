@@ -37,15 +37,15 @@ nav.navbar.navbar-default {
 
 .navbar-brand:hover,
 .nav-item a:hover {
-  color: #FF5C62;
+  color: black;
 }
 
 .nav-item:hover {
-  color: #FF5C62;
+  color: black;
 }
 
 .active {
-  color: #FF5C62;
+  color: black;
 }
 
 .nav-item a {

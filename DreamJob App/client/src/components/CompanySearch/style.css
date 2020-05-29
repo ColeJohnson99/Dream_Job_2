@@ -45,11 +45,11 @@
 }
 
 #btn-submit {
-  background-color: #FF5C62;
+  background-color: black;
 }
 
 #btn-submit:hover {
-  background-color: #FF5C62;
+  background-color: black;
 }
 
 #btn-submit:hover>.searchIcon {
