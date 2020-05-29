@@ -186,7 +186,7 @@ class MyJobs extends PureComponent {
                   <img src="./img/rjsc8FTu9hLF8GhSY7HyhdNP1.png" alt="Jobs Visual" className="network-image" />
                 </div>
                 <div className="text-container">
-                  <p className="header-text">All the essential information, all in one place. You're already well on your way to finding that <span className="red-bold">perfect gig!</span></p>
+                  <p className="header-text">All the essential information, all in one place. You're already well on your way to finding that <span className="dark-bold">dream job!</span></p>
                 </div>
                 <button className="add-contact btn grow center" onClick={this.handleClickOpen}><AddJobIcon className="align-middle"/>Add Job</button>
 
