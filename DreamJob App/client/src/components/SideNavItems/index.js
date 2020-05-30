@@ -25,9 +25,9 @@ render() {
       { <NavLink to='/dashboard' style={{ textDecoration: 'none' }}>
         <ListItem button id='overviewBtn' className='listBtn' name='overview'>
           <ListItemIcon className='listIcon'>
-            <BarChartIcon />
+            {/* <BarChartIcon /> */}
           </ListItemIcon>
-          <ListItemText primary='Dashboard' className='listTxt' />
+          {/* <ListItemText primary='Dashboard' className='listTxt' /> */}
         </ListItem>
       </NavLink>}
 
@@ -51,10 +51,10 @@ render() {
 
       <NavLink to='/companies' style={{ textDecoration: 'none' }}>
         <ListItem button id='companiesBtn' className='listBtn' name='companies'>
-          <ListItemIcon className='listIcon'>
+          {/* <ListItemIcon className='listIcon'>
             <Domain />
-          </ListItemIcon>
-          <ListItemText primary='Companies' className='listTxt' />
+          </ListItemIcon> */}
+          {/* <ListItemText primary='Companies' className='listTxt' /> */}
         </ListItem>
       </NavLink>
 
