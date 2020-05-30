@@ -1,5 +1,5 @@
 .listBtn:hover {
-  color: #FF5C62 !important;
+  color: black !important;
 }
 
 .listIcon {
@@ -8,22 +8,22 @@
 }
 
 .listIcon:hover {
-  color: #FF5C62 !important;
+  color: black !important;
   transform: scale(1.25);
 }
 
 .listBtn:hover .listIcon {
-  color: #FF5C62 !important;
+  color: black !important;
   transform: scale(1.25);
 }
 
 .active .listIcon {
-  color: #FF5C62 !important;
+  color: black !important;
   transform: scale(1.25);
 }
 
 .active .listBtn .listIcon {
-  color: #FF5C62 !important;
+  color: black !important;
   transform: scale(1.25);
 }
 
@@ -49,7 +49,7 @@
 }
 
 .footer a {
-	color: #FF5C62;
+	color: black;
 }
 
 .sticky-footer{

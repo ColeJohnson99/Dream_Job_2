@@ -3,12 +3,12 @@
   margin-left: 25%;
   margin-right: 2%;
   margin-top: 3%;
-  background-color: #FF5C62;
+  background-color: rgb(226, 142, 32);
   font-family: 'Roboto', sans-serif;
 }
   
 .add-contact:hover {
-  box-shadow: 0 1px 2px 1px #FF5C62;
+  box-shadow: 0 1px 2px 1px black;
   -webkit-animation: Gradient 2.75s ease infinite;
   -moz-animation: Gradient 2.75s ease infinite;
   animation: Gradient 2.75s ease infinite;
@@ -37,8 +37,8 @@
   margin-top: 8%;
   background: #2D2D2D;
   border: 2px;
-  border-color: #FF5C62;
-  box-shadow: 0px 2px 5px 2px #FF5C62;
+  border-color: rgb(88, 85, 85);
+  box-shadow: 0px 2px 5px 2px rgb(88, 85, 85);
 }
 
 .network-header {
@@ -61,13 +61,13 @@
 }
 
 .network-counter {
-  color: #FF5C62;
+  color: white;
   font-size: 54px;
   margin-top: -15px;
 }
 
-.red-bold {
-  color: #FF5C62;
+.dark-bold {
+  color: black;
   font-weight: bold;
 }
 
@@ -83,7 +83,7 @@
   margin: auto;
   margin-top: 2%;
   margin-bottom: 2%;
-  background: linear-gradient(43deg, #3552b2, #6d5cc0, #a767cf, #c06cd6);
+  background: linear-gradient(43deg, rgb(88, 85, 85), rgb(88, 85, 85), rgb(88, 85, 85));
   background-size: 400% 400%;
   -webkit-animation: Gradient 3.75s ease infinite;
   -moz-animation: Gradient 3.75s ease infinite;
@@ -91,12 +91,12 @@
 }
 
 .refresh-db {
-  background-color: #FF5C62;
+  background-color: rgb(121, 121, 121);
   margin-top: 3%;
 }
 
 .refresh-db:hover {
-  box-shadow: 0 1px 2px 1px #FF5C62;
+  box-shadow: 0 1px 2px 1px rgb(88, 85, 85);
   -webkit-animation: Gradient 2.75s ease infinite;
   -moz-animation: Gradient 2.75s ease infinite;
   animation: Gradient 2.75s ease infinite;
@@ -111,7 +111,7 @@
 }
 
 .delete-contact {
-  color: #FF5C62;
+  color: rgb(88, 85, 85);
   background-color: #2D2D2D;
 }
 
@@ -124,13 +124,13 @@ td:focus {
   text-align: center;
   display: block;
   margin: auto;
-  color: #FF5C62;
+  color: white;
   font-size: 1.5vh;
 }
 
 .title {
   text-align: center;
-  color: #FF5C62;
+  color: rgb(88, 85, 85);
   font-size: 1rem;
   font-weight: bold;
   padding-top: 5px;
@@ -138,6 +138,6 @@ td:focus {
 }
 
 .updates {
- color: rgb(116, 29, 156);
+ color: black;
  padding-right: 6px;
 }

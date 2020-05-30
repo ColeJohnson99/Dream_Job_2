@@ -5,7 +5,7 @@
 }
 
 .AboutStepper-root-1 svg {
-  color: #FF5C62 !important;
+  color: rgb(226, 142, 32) !important;
 }
 
 button {
@@ -13,7 +13,7 @@ button {
 }
 
 .stepLabel {
-  background: linear-gradient(43deg, #3552b2, #6d5cc0, #a767cf, #c06cd6) !important;
+  background: linear-gradient(43deg, black, rgb(109, 64, 4), rgb(160, 100, 21), rgb(226, 142, 32)) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }

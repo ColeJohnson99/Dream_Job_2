@@ -21,8 +21,8 @@
     margin-top: 8%;
     background: #2D2D2D;
     border: 2px;
-    border-color: #FF5C62;
-    box-shadow: 0px 2px 5px 2px #FF5C62;
+    border-color: rgb(226, 142, 32);
+    box-shadow: 0px 2px 5px 2px rgb(226, 142, 32);
   }
   
   .network-header {
@@ -45,13 +45,13 @@
   }
   
   .network-counter {
-    color: #FF5C62;
+    color: rgb(226, 142, 32);
     font-size: 54px;
     margin-top: -15px;
   }
   
   .red-bold {
-    color: #FF5C62;
+    color: rgb(226, 142, 32);
     font-weight: bold;
   }
   

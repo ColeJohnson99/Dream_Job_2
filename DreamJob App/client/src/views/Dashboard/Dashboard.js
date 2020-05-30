@@ -64,7 +64,7 @@ const styles = theme => ({
   menuButton: {
     marginLeft: 12,
     marginRight: 36,
-    backgroundColor: '#FF5C62',
+    backgroundColor: 'rgb(226, 142, 32)',
   },
   menuButtonHidden: {
     display: 'none',

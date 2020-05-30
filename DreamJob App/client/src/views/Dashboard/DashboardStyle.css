@@ -1,13 +1,13 @@
 .userName {
-  color: #FF5C62;
+  color: rgb(226, 142, 32);
 }
 
 .logoutBtn {
-  color: black;
+  color: rgb(226, 142, 32);
 }
 
 .logoutBtn:hover {
-  color: #FF5C62;
+  color: black;
 }
 
 .MuiToolbar-root-221 {
@@ -57,7 +57,7 @@
   left: 0;
   right: 100%;
   bottom: 0;
-  background: #FF5C62;
+  background: black;
   height: 3.5px;
   -webkit-transition-property: right;
   transition-property: right;
@@ -90,7 +90,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FF5C62;
+  background: rgb(226, 142, 32);
   height: 3.5px;
   -webkit-transition-property: right;
   transition-property: right;
