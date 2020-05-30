@@ -58,12 +58,12 @@
 }
 
 .refresh-db {
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(226, 142, 32);
     margin-top: 3%;
 }
 
 .refresh-db:hover {
-    box-shadow: 0 1px 2px 1px #2D2D2D;
+    box-shadow: 0 1px 2px 1px black;
     -webkit-animation: Gradient 2.75s ease infinite;
     -moz-animation: Gradient 2.75s ease infinite;
     animation: Gradient 2.75s ease infinite;

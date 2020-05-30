@@ -1,9 +1,9 @@
 .userName {
-  color: black;
+  color: rgb(226, 142, 32);
 }
 
 .logoutBtn {
-  color: black;
+  color: rgb(226, 142, 32);
 }
 
 .logoutBtn:hover {
@@ -90,7 +90,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: black;
+  background: rgb(226, 142, 32);
   height: 3.5px;
   -webkit-transition-property: right;
   transition-property: right;
