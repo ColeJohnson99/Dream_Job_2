@@ -35,6 +35,7 @@ Technology | Purpose
 - LinkedIn API | Login and authentication
 
 
+
 ## **Acknowledgments:**
 
 Special thanks to our awesome TA's Mike and Kurt, as well as our super knowledgable (and cool) instructor Chris!
