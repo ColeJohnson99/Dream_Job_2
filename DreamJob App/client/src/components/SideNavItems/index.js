@@ -22,14 +22,14 @@ render() {
  return (
    <div>
      <div className="sidenav-contents">
-      <NavLink to='/dashboard' style={{ textDecoration: 'none' }}>
+      { <NavLink to='/dashboard' style={{ textDecoration: 'none' }}>
         <ListItem button id='overviewBtn' className='listBtn' name='overview'>
           <ListItemIcon className='listIcon'>
             <BarChartIcon />
           </ListItemIcon>
           <ListItemText primary='Dashboard' className='listTxt' />
         </ListItem>
-      </NavLink>
+      </NavLink>}
 
       <NavLink to='/myJobs' style={{ textDecoration: 'none' }}>
         <ListItem button id='myJobsBtn' className='listBtn' name='myJobs'>
