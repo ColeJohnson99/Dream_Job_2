@@ -1,4 +1,4 @@
-# **Dream_Job**
+# **Dream Job**! [Dream Job Logo](DreamJob App\client/public\img\image.png)
 
 
 - Finding a job is hard, sifting through countless applications on a multitude of Job sites doesn’t make it any easier. That's where the Dream Job app comes in. In order to utilize the Dream Job app we do ask that you log in via your LinkedIn account, as prompted at the bottom of the home page.
@@ -9,27 +9,30 @@
 
 ## **Technology Used:**
 
-- HTML5 for page layout.
+Technology | Purpose
+------------ | -------------
 
-- CSS for page layout and styling.
+- HTML5 | Page layout
 
-- Bootstrap CSS framework for styling.
+- CSS | Page layout and styling
 
-- JavaScript for basic App logic.
+- Bootstrap CSS framework | Styling
 
-- React.js UI library for serving up front-end content.
+- JavaScript | Basic App logic
 
-- Node.js for apps runtime enviroment.
+- React.js UI library | Serving up front-end content
 
-- MongoDB database.
+- Node.js | Apps runtime enviroment
 
-- Mongoose Object Data Modeling (ODM) library for MongoDB.
+- MongoDB | database.
 
-- Express for Routing.
+- Mongoose | Object Data Modeling (ODM) library for MongoDB
 
-- React-router-dom React routing library for page navigation.
+- Express | Routing
 
-- LinkedIn API for login and authentication.
+- React-router-dom | React routing library for page navigation
+
+- LinkedIn API | Login and authentication
 
 
 ## **Acknowledgments:**
