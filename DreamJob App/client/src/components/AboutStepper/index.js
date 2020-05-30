@@ -23,7 +23,7 @@ const styles = theme => ({
       marginRight: theme.spacing.unit,
       textTransform: 'lowercase',
       outline: 'none',
-      background: 'gray',
+      background: 'rgb(226, 142, 32)',
       maxHeight: '29px',
       maxWidth: '26px',
       color: 'white',
