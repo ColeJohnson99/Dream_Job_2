@@ -38,7 +38,7 @@ router.get("/", function(req, res, next) {
 function requestAccessToken(code,state) {
   return request.post('https://www.linkedin.com/oauth/v2/accessToken')
     .send('grant_type=authorization_code')
-    .send(`redirect_uri=https://thawing-shelf-49287.herokuapp.com/callback`)
+    .send(`redirect_uri=https://salty-garden-29697.herokuapp.com/callback`)
     .send(`client_id=7845x4f4bdc30m`)
     .send(`client_secret=oA9WHipzKzzImtNy`)
     .send(`code=${code}`)
