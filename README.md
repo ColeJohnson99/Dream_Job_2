@@ -12,17 +12,27 @@
 Technology | Purpose
 ------------ | -------------
 
- HTML5 | Page layout
- CSS | Page layout and styling
- Bootstrap CSS framework | Styling
- JavaScript | Basic App logic
- React.js UI library | Serving up front-end content
- Node.js | Apps runtime enviroment
- MongoDB | database.
- Mongoose | Object Data Modeling (ODM) library for MongoDB
- Express | Routing
- React-router-dom | React routing library for page navigation
- LinkedIn API | Login and authentication
+- HTML5 | Page layout
+
+- CSS | Page layout and styling
+
+- Bootstrap CSS framework | Styling
+
+- JavaScript | Basic App logic
+
+- React.js UI library | Serving up front-end content
+
+- Node.js | Apps runtime enviroment
+
+- MongoDB | database.
+
+- Mongoose | Object Data Modeling (ODM) library for MongoDB
+
+- Express | Routing
+
+- React-router-dom | React routing library for page navigation
+
+- LinkedIn API | Login and authentication
 
 
 ## **Acknowledgments:**
