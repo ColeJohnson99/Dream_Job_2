@@ -1,4 +1,4 @@
-# **Dream Job**! [Dream Job Logo](DreamJob App\client/public\img\image.png)
+# **Dream Job** ![Dream Job Logo](DreamJob App\client/public\img\image.png)
 
 
 - Finding a job is hard, sifting through countless applications on a multitude of Job sites doesn’t make it any easier. That's where the Dream Job app comes in. In order to utilize the Dream Job app we do ask that you log in via your LinkedIn account, as prompted at the bottom of the home page.
