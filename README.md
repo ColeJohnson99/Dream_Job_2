@@ -32,6 +32,10 @@ Technology | Purpose
 
 - React-router-dom | React routing library for page navigation
 
+- React-fade-in | React library for dynamic fade-in/out 
+
+- react-reveal + react-scrollchor | React animation library's for revealing content on scroll, and smooth scrolling to different elements on the page 
+
 - LinkedIn API | Login and authentication
 
 
