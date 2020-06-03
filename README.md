@@ -2,7 +2,7 @@
 
 Dream Job URL:
 
-(https://salty-garden-29697.herokuapp.com/myJobs#/ "Dream Job")
+(https://salty-garden-29697.herokuapp.com/myJobs#/)
 
 - Finding a job is hard, sifting through countless applications on a multitude of Job sites doesn’t make it any easier. That's where the Dream Job app comes in. In order to utilize the Dream Job app we do ask that you log in via your LinkedIn account, as prompted at the bottom of the home page.
 
@@ -43,7 +43,7 @@ Technology | Purpose
 
 
 GitHub project URL: 
-(https://github.com/ColeJohnson99/Dream_Job_2  "GitHub Project Page")
+(https://github.com/ColeJohnson99/Dream_Job_2)
 
 ## **Acknowledgments:**
 
