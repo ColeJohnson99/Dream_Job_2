@@ -4,6 +4,8 @@ Dream Job URL:
 
 (https://salty-garden-29697.herokuapp.com/myJobs#/)
 
+![img](client/public/img/dreamjob.png)
+
 - Finding a job is hard, sifting through countless applications on a multitude of Job sites doesn’t make it any easier. That's where the Dream Job app comes in. In order to utilize the Dream Job app we do ask that you log in via your LinkedIn account, as prompted at the bottom of the home page.
 
  - Once authenticated, navigate to the My Jobs page to easily keep track of all of your applications.  Update each application with useful information, such as desired Role, Job   location, date tracking, and the current status of your application while on the hunt, all stored securely in a database for the next time you log in.
